@@ -231,9 +231,8 @@ templates/index.html.j2
 </body>
 </html>
 ```
-![photo_2025-12-11_23-06-52](https://github.com/user-attachments/assets/a8e4aa3a-2696-4230-91af-b5581616f6cb)
 
+![photo_2025-12-12_12-37-13](https://github.com/user-attachments/assets/13278117-ed4c-49c2-a760-feb3905ecf08)
+![photo_2025-12-12_12-37-22](https://github.com/user-attachments/assets/9344e043-6113-4dbc-a4ad-1dccaff9d5bb)
+![photo_2025-12-12_12-37-31](https://github.com/user-attachments/assets/34e7376c-6178-489e-a04f-8c5412a23da5)
 
-https://drive.google.com/file/d/1MAOr108rQ1niW0VIHDj15QUWAkyKHHm9/view?usp=sharing
-
-![photo_2025-12-11_23-07-24](https://github.com/user-attachments/assets/cb18c552-ec0c-4e3b-b46f-c8ec0f6c24c1)
