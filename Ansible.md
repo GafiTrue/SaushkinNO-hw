@@ -231,7 +231,7 @@ templates/index.html.j2
 </body>
 </html>
 ```
-
+https://drive.google.com/file/d/1LEWQu__qrrpMKJMubpb3DHZaOaI5oG36/view?usp=sharing
 ![photo_2025-12-12_12-37-13](https://github.com/user-attachments/assets/13278117-ed4c-49c2-a760-feb3905ecf08)
 ![photo_2025-12-12_12-37-22](https://github.com/user-attachments/assets/9344e043-6113-4dbc-a4ad-1dccaff9d5bb)
 ![photo_2025-12-12_12-37-31](https://github.com/user-attachments/assets/34e7376c-6178-489e-a04f-8c5412a23da5)
